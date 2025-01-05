@@ -65,7 +65,7 @@ export default function About() {
                     />
                     <h1 className=" font-bold text-sm mt-5" style={{ color: "#333333" }}>STI College Calamba</h1>
                     <p className="mt-2 text-sm font-semibold" style={{ color: "#003056" }}>Science Technology Engineering and Mathematics</p>
-                    <p className="text-sm font-semibold" style={{ color: "#333333" }}>2019-2024</p>
+                    <p className="text-sm font-semibold" style={{ color: "#333333" }}>2016-2018</p>
                 </div>
 
                 <div className=" p-4 text-white text-center rounded">
